@@ -10,7 +10,7 @@ Highlighted key-words throughout the website to improve readability and increase
 
 ## Installation
 
-**N/A**
+[Link to website](https://cicatrice-vlad.github.io/code-refactor-challenge1/)
 
 ## Usage
 
