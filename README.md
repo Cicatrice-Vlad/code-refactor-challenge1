@@ -20,7 +20,7 @@ This refactored code contains HTML and CSS elements that allow a user to interac
 
 **N/A**
 
-!["horiseon"](starter/assets/images/horiseon.png)
+!["horiseon"](Assets/images/horiseon.png)
 
 ## License
 
